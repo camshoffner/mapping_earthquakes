@@ -1,2 +1,4 @@
-# mapping_earthquakes
-Using JS and Mapbox API to map earthquakes
+# Mapping Earthquakes
+
+## Overview
+Using JavaScript and Mapbox, this project plotted USGS's earthquake data. 
